@@ -34,3 +34,4 @@ prices = [1, 2, 3, 2, 3]
 print(aa.solution(prices))
 
 
+# 코드 돌아가는 방식을 알기위한 로그작업
