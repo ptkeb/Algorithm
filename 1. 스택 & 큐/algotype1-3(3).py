@@ -122,3 +122,4 @@ bbb = 100
 ccc = [10]
 print(aa.solution(aaa,bbb,ccc))
 ## 정확도 11점
+## 불필요한 코드 갈아엎어야 됨
