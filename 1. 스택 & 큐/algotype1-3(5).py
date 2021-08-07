@@ -7,7 +7,7 @@ class aa:
         total_wei = 0
         time = 0
         tt = 0
-        while time <= 100000:
+        while time <= 1000000000000:
             if tt + bri_len == time and len(on_bri_tru) > 1:
                 total_wei -= on_bri_tru.pop(0)[0]
                 tt = on_bri_tru[0][1]
