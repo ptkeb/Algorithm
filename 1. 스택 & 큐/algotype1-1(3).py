@@ -3,7 +3,7 @@ class aa:
     def solution(prices):
         answer = []
         
-        for i in range(len(prices)):
+        for i in range(len(prices)): #<< == while 문으로 바꿔서 실행해보기.
             count = 0
             pr = prices.pop(0)
             a = int(pr)
